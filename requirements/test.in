@@ -1,6 +1,6 @@
 # Requirements for test runs.
 -c constraints.txt
 
--r base.txt
+-r base.in
 
 mock

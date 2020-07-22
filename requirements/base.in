@@ -1,17 +1,16 @@
 # Core requirements for using this application
 -c constraints.txt
 
-Django
+django
 amqp
 APScheduler
 billiard
 boto
-celery
+celery==4.4.0
 django-celery
 django-configurations
 django-coverage
 django-ses
-kombu
 logilab-astng
 logilab-common
 mysqlclient

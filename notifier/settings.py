@@ -27,7 +27,6 @@ DATABASES = {
 }
 
 INSTALLED_APPS = (
-    'kombu.transport.django',
     'django_ses',
     'djcelery',
     'notifier',

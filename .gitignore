@@ -6,3 +6,5 @@ notifier.db
 notifier.log
 venvs
 *.bak
+
+*venv*/
